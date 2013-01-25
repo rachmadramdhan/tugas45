@@ -168,4 +168,5 @@ function setwarna(indeks){
 </script>
 <div class="bawah" />
 </body>
-</html>
+</html
+prima
