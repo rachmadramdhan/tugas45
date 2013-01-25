@@ -1,5 +1,6 @@
 <?php
 include "../../control/query.php";error_reporting(0);
+//import file
 ?>
 <html>
     <head>
